@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Aisha Rahman",
+    "comment": "Amazing quality and fast delivery! Will shop again.",
+    "rating": 5,
+    "date": "2025-09-12",
+    "image": "asse/im/review1.jpg"
+  },
+  {
+    "name": "Fahim Ahmed",
+    "comment": "Good value for the price, loved the packaging.",
+    "rating": 4,
+    "date": "2025-10-03",
+    "image": "asse/im/review2.jpeg"
+  },
+  {
+    "name": "Riyaeeeeeeeeeeeeeeee Sultana",
+    "comment": "Customer support was very helpful.",
+    "rating": 5,
+    "date": "2025-08-25",
+    "image": "asse/im/review3.jpeg"
+  }
+]
